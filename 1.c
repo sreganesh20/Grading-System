@@ -1,4 +1,4 @@
-#include <stdio.h>//85 100  70 84   55 69   40 54   <40
+#include <stdio.h>
 int main()
 {
     int marks;
